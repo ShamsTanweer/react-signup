@@ -1,0 +1,55 @@
+body{
+    background-color: black;
+}
+input{
+    width: 1000px;
+    height: 30px;
+    border: 2px solid black;
+    color: white;
+    border-radius: 5px;
+    margin-top: 10px;
+    padding: 5px;
+    background-color: black;
+    border-bottom:1px solid white;
+
+
+  }
+
+  input::placeholder {
+    color: #fff;
+    font-size: 15px;
+    padding: 5px;
+    font-family: Arial, sans-serif;
+
+  }
+
+  button{
+    background-color: white;
+  color: black;
+  /* padding: 10px 20px; */
+  margin-top: 20px;
+  border: 2px solid white;
+  font-size: 15px;
+  font-family: Arial, sans-serif;
+  padding-left: 40px;
+  padding-right: 40px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  position: relative;
+  right: 433px;
+
+
+  }
+
+  h1{
+    color: white;
+    position: relative;
+    right: 400px;
+    font-weight: 300;
+    font-size: 60px;
+  }
+
+  p{
+    position: relative;
+    right: 380px;
+  }
